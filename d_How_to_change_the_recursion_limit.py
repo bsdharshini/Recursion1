@@ -1,3 +1,5 @@
+#Default recursion limit is '1000'
+
 #How_to_change_the_recursion_limit
 
 import sys as s
