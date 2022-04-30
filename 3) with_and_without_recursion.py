@@ -1,3 +1,7 @@
+"""- we must add a base conditionto stop the recursion
+- Break the problem into small parts(assumption)
+- Then apply for n (*) small parts"""
+
 #Factorial of a number
 
 #Without recursion:
