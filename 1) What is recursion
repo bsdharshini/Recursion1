@@ -2,4 +2,10 @@ What is recursion
 
 - Calling a function from itself
 - Base case + Assumption + Proof
+- Mathematics behind recursion is PMI - principle of mathematical induction
+- Step by step process: 
+
+1)  we must add a base conditionto stop the recursion
+2)  Break the problem into small parts(assumption)
+3)  Then apply for n (*) small parts
 
