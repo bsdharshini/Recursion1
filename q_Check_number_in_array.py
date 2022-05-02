@@ -1,4 +1,4 @@
-#q_Check_number_in_array.py
+#q_Check_number_in_array.py or find first index
 #without array copying
 def check_n(arr,n,s):
     l =len(arr)
